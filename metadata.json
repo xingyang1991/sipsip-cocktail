@@ -1,0 +1,7 @@
+{
+  "name": "SipSip - 微醺手记",
+  "description": "A refined, Morandi-styled cocktail recipe and mood diary app. Mix your mood with elegant paper-textured layouts and visual recipe cards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
